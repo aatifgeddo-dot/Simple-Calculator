@@ -1,4 +1,5 @@
 <img width="1408" height="768" alt="IMG_0895" src="https://github.com/user-attachments/assets/e9e67bf9-e90e-4ef2-b3d9-e1806b4df051" />
+
  # 🧮 Simple Web-Based Calculator
 
 A clean, modern, and lightweight web-based calculator built entirely using Python. This project demonstrates how to handle logical and mathematical operations and render them seamlessly through a web interface.
