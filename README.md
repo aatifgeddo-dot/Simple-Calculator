@@ -1,3 +1,4 @@
+<img width="717" height="516" alt="IMG_0945" src="https://github.com/user-attachments/assets/3740446a-ef61-4965-ae0e-4b80a018e7ac" />
 
 
  # 🧮 Simple Web-Based Calculator
